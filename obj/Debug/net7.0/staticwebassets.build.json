@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8edZN6Cn6LawuPmK6du0AdB7wR6UEYDsDTxmTHZc1UQ=",
+  "Source": "mslearn-webapi-contosopizza",
+  "BasePath": "_content/mslearn-webapi-contosopizza",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
